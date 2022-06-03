@@ -1,0 +1,5 @@
+class Test implements Testable{
+    void display(){
+        System.out.println(" Test ");
+    }
+}
